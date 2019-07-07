@@ -21,6 +21,8 @@ def using_first(array)
 end
 
 def using_last(array)
+  ["wow", 6, 12]
+  .last
 
 end
 
