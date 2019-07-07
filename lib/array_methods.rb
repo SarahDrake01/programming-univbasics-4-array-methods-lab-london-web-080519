@@ -15,6 +15,8 @@ def using_reverse(array)
 end
 
 def using_first(array)
+  ["array", 6, 12]
+  .first
 
 end
 
