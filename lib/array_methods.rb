@@ -4,7 +4,8 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-.sort("wow")
+  ["am", "lol", "wow"]
+.sort
 end
 
 def using_reverse(array)
